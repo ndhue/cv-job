@@ -1,5 +1,5 @@
 {
-  "name": "jobsx",
+  "name": "cv-job",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,7 +17,7 @@
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.3.3",
     "web-vitals": "^1.1.2",
-    "homepage": "https//ndhue.github.io/jobsx/"
+    "homepage": "https//ndhue.github.io/cv-job/"
   },
   "scripts": {
     "start": "react-scripts start",
