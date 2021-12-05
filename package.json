@@ -2,6 +2,7 @@
   "name": "cv-job",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https//ndhue.github.io/cv-job/",
   "dependencies": {
     "@mui/icons-material": "^5.2.0",
     "@testing-library/jest-dom": "^5.15.1",
@@ -16,8 +17,7 @@
     "react-slick": "^0.28.1",
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.3.3",
-    "web-vitals": "^1.1.2",
-    "homepage": "./ndhue.github.io/cv-job/"
+    "web-vitals": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
